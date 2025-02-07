@@ -16,3 +16,5 @@ The **Fitness tracker** provides realtime tracking of physical activities and wo
  - **Frontend** - React js,HTML,CSS;
  - **Backend**  - node js;
  - **Database** - MongoDB;
+## layout
+<img src= "./imgs/layout.jpg" >
