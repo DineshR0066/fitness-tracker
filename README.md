@@ -12,4 +12,7 @@ The **Fitness tracker** provides realtime tracking of physical activities and wo
     - **workout plans** - Allows user to select a workout plan from multiple plans that are available in the page.
     - **progress Tracking** - Graphs and charts to visualize health trends over time.
 1. ***Roles*** - Users.
-## Tech stack.
+## Tech stack
+ - **Frontend** - React js,HTML,CSS;
+ - **Backend**  - node js;
+ - **Database** - MongoDB;
