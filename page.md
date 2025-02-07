@@ -2,15 +2,15 @@
 - **Login page** 
     - Allows the user to enter into the website using their login credentials.
 - **Sign up page**
-    - when user is new to the website, it allows the user to register their details and create account .
+    - when user is new to the website, it allows the user to register their details and create account.
 - **Dashboard**
     - shows the work out that are completed completed and calories burnt
     - It contains most of the bottons like logout,profile setup,workout plans.
 - **Profile setup**
-    - User can add and update their height and weight  
+    - User can add and update their height and weight.
 - **Workout plans**
-    - Various workout plans are available in this page 
+    - Various workout plans are available in this page ,allows user to also add their workout plans.
 - **Diet plans**
-    - various diet plan are available in this page
+    - Various diet plan are available in this page ,user can choose their plan accordingly.
 - **progress tracking**
     - Graphs and charts to visualize health trends over time.
