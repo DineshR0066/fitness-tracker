@@ -22,7 +22,7 @@
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  transition: all 1s;
+  transition: all 0.5s;
   border-bottom: 5px solid transparent;
 }
 .nav-bar-container .nav-bar .item:hover {

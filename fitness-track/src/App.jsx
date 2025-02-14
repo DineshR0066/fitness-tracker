@@ -5,8 +5,6 @@ import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
 import SearchPage from "./pages/SearchPage";
 import ProfilePage from "./pages/ProfilePage";
-
-
 function App() {
   const [activePageIndex, setActivePageIndex] = useState(0);
 
